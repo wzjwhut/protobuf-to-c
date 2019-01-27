@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/protobuf-to-c.iml" filepath="$PROJECT_DIR$/.idea/protobuf-to-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protobuf_c_generator/protobuf_c_generator.iml" filepath="$PROJECT_DIR$/protobuf_c_generator/protobuf_c_generator.iml" />
     </modules>
   </component>
 </project>
