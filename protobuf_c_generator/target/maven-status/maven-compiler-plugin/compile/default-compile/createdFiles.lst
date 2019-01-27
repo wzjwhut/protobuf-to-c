@@ -1,0 +1,16 @@
+com\wzjwhut\util\text\StringFormatter.class
+test\MyProtoOuterClass$MyTypeOrBuilder.class
+test\MyProtoOuterClass.class
+test\MyProtoOuterClass$MyProto$MessageType.class
+test\MyProtoOuterClass$1.class
+test\MyProtoOuterClass$MyProto$1.class
+test\MyProtoOuterClass$MyProto$MessageType$1.class
+com\wzjwhut\protoc\Main.class
+com\wzjwhut\util\text\HexUtils.class
+test\MyProtoOuterClass$MyProto$Builder.class
+test\TestMyProto.class
+test\MyProtoOuterClass$MyType$1.class
+test\MyProtoOuterClass$MyProtoOrBuilder.class
+test\MyProtoOuterClass$MyType.class
+test\MyProtoOuterClass$MyType$Builder.class
+test\MyProtoOuterClass$MyProto.class

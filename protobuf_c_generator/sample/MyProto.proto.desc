@@ -1,0 +1,14 @@
+
+ƒ
+MyProto.prototest"
+MyType
+i32 (Ri32"Ï
+MyProto<
+message_type (2.test.MyProto.MessageTypeRmessageType
+str (	:hello worldRstr
+i32 (Ri32
+i64 (Ri64
+msg (2.test.MyTypeRmsg"#
+MessageType	
+TYPE1	
+TYPE2

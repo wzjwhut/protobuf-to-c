@@ -1,0 +1,17 @@
+syntax = "proto2";
+
+package test;
+
+message MyType {
+    optional int32 i32 = 1;   
+}
+
+message MyProto{
+	enum MessageType { TYPE1 = 1; TYPE2 = 2;}
+	optional MessageType message_type = 12;
+	optional string str = 1 [default = "hello world"];
+	optional int32  i32 = 2;
+	optional int64  i64 = 3;
+	optional MyType msg = 4;
+}
+
